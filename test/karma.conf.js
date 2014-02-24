@@ -24,6 +24,6 @@ module.exports = function(config) {
         },
 
         // Add browserify to preprocessors
-        preprocessors: {'unit/**/*_spec.js': ['browserify']}
+        preprocessors: {'unit/**/*.js': ['browserify']}
     });
 };
