@@ -1,0 +1,11 @@
+{
+  "name": "angular-browserify-scaffold",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.13",
+    "angular-ui-router": "0.2.8-bowratic-tedium"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.13"
+  }
+}
